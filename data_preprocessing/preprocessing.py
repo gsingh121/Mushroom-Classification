@@ -169,7 +169,7 @@ class Preprocessor:
                             """
 
         for column in data.columns:
-            data = pd.get_dummies(data, columns=[column])
+            data = pd.get_dummies(data, columns=[column],drop_first=True)
 
         return data
 
