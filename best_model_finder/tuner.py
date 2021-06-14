@@ -7,7 +7,7 @@ import pandas as pd
 class Model_Finder:
     """
                 This class shall  be used to find the model with best accuracy and AUC score.
-                Written By: iNeuron Intelligence
+                Written By: Gourav Singh
                 Version: 1.0
                 Revisions: None
 
@@ -27,7 +27,7 @@ class Model_Finder:
                                 Output: The model with the best parameters
                                 On Failure: Raise Exception
 
-                                Written By: iNeuron Intelligence
+                                Written By: Gourav Singh
                                 Version: 1.0
                                 Revisions: None
 
@@ -73,7 +73,7 @@ class Model_Finder:
                                                 Output: The model with the best parameters
                                                 On Failure: Raise Exception
 
-                                                Written By: iNeuron Intelligence
+                                                Written By: Gourav Singh
                                                 Version: 1.0
                                                 Revisions: None
 
@@ -126,7 +126,7 @@ class Model_Finder:
     #                                     Output: The model with the best parameters
     #                                     On Failure: Raise Exception
     #
-    #                                     Written By: iNeuron Intelligence
+    #                                     Written By: Gourav Singh
     #                                     Version: 1.0
     #                                     Revisions: None
     #
@@ -176,7 +176,7 @@ class Model_Finder:
                                                 Output: The best model name and the model object
                                                 On Failure: Raise Exception
 
-                                                Written By: iNeuron Intelligence
+                                                Written By: Gourav Singh
                                                 Version: 1.0
                                                 Revisions: None
 
