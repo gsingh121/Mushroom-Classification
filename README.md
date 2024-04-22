@@ -29,5 +29,6 @@ Data Description:
 21. population: abundant=a,clustered=c,numerous=n, scattered=s,several=v,solitary=y 
 22. habitat: grasses=g,leaves=l,meadows=m,paths=p, urban=u,waste=w,woods=d
 
+
 Apart from training files, we also require a "schema" file from the client, which contains all the relevant information about the training files such as:
 Name of the files, Length of Date value in FileName, Length of Time value in FileName, Number of Columns, Name of the Columns, and their datatype.
